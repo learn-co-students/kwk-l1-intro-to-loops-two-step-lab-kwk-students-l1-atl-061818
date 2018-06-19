@@ -53,7 +53,7 @@ def how_many_steps?
   puts steps
   count += 1 
   
-  sleeps(0.5)
+  sleeps(0.5
 end
 
 def break_dance
